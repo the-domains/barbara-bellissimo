@@ -1,0 +1,28 @@
+name: Barbara Bellissimo
+favicon: null
+layout_spectrum: 0.6084910342469811
+typography_spectrum: 0.17903104587458074
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3311116248369217
+  lightness: 0.24869314255192876
+  saturation: 0.3634748167824
+  rhythmicContrast: 0.6535167586989701
+purpose: []
